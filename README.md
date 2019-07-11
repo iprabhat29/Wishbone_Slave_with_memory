@@ -1,5 +1,12 @@
 # Wishbone_Slave_with_memory
 Design of wishbone slave with memory implementation
+
+Design specification is provided.
+
+Tools used 
+  vcs 2017.03-SP2-11
+  dve 2017.03-SP2-11
+  
 How to RUN
 
 From testbench folder run:
